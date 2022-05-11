@@ -1,4 +1,4 @@
-const array = ["dillion", "megida", "1", "2", false, true, null, undefined, {}]
+const array = ["brayan", "kai", "7", "6", true, false, null, undefined, {}]
 
 const numberValues array.map (Number)
 
@@ -6,13 +6,13 @@ console.log(numberValues)
 
 // [
 
-NaN, no number equivalent for "dillion"
+NaN, no number equivalent for "brayan"
 
 1, "1"
 
 0, -- false
 
-NaN, - no number equivalent for "megida" 2, "2" 77 1
+NaN, - no number equivalent for "kai" 2, "2" 77 1
 
 1, -- true
 
